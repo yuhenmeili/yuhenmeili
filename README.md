@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Kaelan 👋
 
-<!--
-**yuhenmeili/yuhenmeili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on real-time rendering.
 
-Here are some ideas to get you started:
+### 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MorrowUI** — A retained-mode UI framework for QNX, featuring GLTF, PBR, and Kawase blur.
+  [View on GitHub →](https://github.com/yuhenmeili/MorrowUI)
+
+### 🛠️ What I'm working on
+
+- Building [MorrowUI](https://github.com/yuhenmeili/MorrowUI), a cross-platform 3D GUI framework for automotive cockpits, optimized for QNX and Windows with retained-mode rendering and high-fidelity 3D model support.
+- Exploring [其他技术或学习方向].
+
+### 🔗 Connect
+
+- [Your Website / Blog](链接) · [LinkedIn](链接) · [X / Twitter](链接)
